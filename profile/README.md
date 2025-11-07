@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐞 The Debug Company  
+# The Debug Company  
 **Debugging the future.**  
 
 We don’t just fix bugs — **we make them extinct.**  
@@ -29,7 +29,7 @@ AI-powered chaos testing · Self-healing frameworks · Open-source tools for unb
 ---
 
 ### 👨‍💻 **Founder**
-[@itsNelitha](https://x.com/itsNelitha) — Building the future, one patch at a time.
+[@itsNelitha](https://github.com/itsNelitha) — Building the future, one patch at a time.
 
 ---
 
